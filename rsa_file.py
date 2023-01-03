@@ -21,6 +21,5 @@ print(*Generator prime p: \d * \(plaintext))
 print(*public key n: \d * \(n))
 print(*public key e: \d * \(e)
 print(*ciphertext: \d * \(ciphertext))
-
 # phctf(fake flag) // flat format..
 # lets try
